@@ -1,0 +1,9 @@
+lis2dh12.c:28:6:lis2_Delay_us	24	static
+lis2dh12.c:45:6:lis2_Delay_ms	24	static
+lis2dh12.c:62:9:lis2dh12_iic_write_byte	16	static
+lis2dh12.c:81:9:lis2dh12_iic_read_byte	16	static
+lis2dh12.c:102:9:Lis2dh12_Init	8	static
+lis2dh12.c:150:6:get_acc_value	32	static
+lis2dh12.c:174:6:filter_calculate	40	static
+lis2dh12.c:207:6:new_angle_calculate	32	static
+lis2dh12.c:227:6:old_angle_calculate	32	static
